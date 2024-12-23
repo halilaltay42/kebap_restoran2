@@ -67,7 +67,7 @@ body{
     background-color: #ff3d00;
  }
   .hero{
-    background-image: url(/img/hero\ arka\ plan.jpg);
+    background-image: url(./img/hero\ arka\ plan.jpg);
     background-size: cover;
     background-position: center;
     color: #fff;
