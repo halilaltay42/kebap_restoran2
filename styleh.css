@@ -35,7 +35,7 @@ header{
  }
 
 html{
-    background-image: url(/img/hakkımda\ arka\ plan.jpg);
+    background-image: url(./img/hakkımda\ arka\ plan.jpg);
     background-size: 1300px ;
 }
  .Hakkımızda h1{
